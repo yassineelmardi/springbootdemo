@@ -1,4 +1,4 @@
-package com.howtodoinjava.demo.controller;
+package com.test.demo.controller;
 
 import java.util.Arrays;
 import java.util.LinkedHashSet;
